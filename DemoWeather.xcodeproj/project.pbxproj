@@ -55,6 +55,7 @@
 		80230FD12113F1DC003AB713 /* Extension UIImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension UIImageView.swift"; sourceTree = "<group>"; };
 		8025DCDF21129577001AC267 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		8025DCE1211295C2001AC267 /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
+		B3087F05219D79F2004204F4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +114,7 @@
 				800FD4E82111974900A91129 /* Assets.xcassets */,
 				800FD4EA2111974900A91129 /* LaunchScreen.storyboard */,
 				800FD4ED2111974900A91129 /* Info.plist */,
+				B3087F05219D79F2004204F4 /* README.md */,
 			);
 			path = DemoWeather;
 			sourceTree = "<group>";
